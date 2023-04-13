@@ -13,15 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VVG9DRD1HE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-VVG9DRD1HE');
-</script>
 
 Welcome! I am a PhD candidate in the [School of Communication](https://comm.osu.edu/ "School of Communication") at The Ohio State University. My research lies at the intersection of political communication and computational social science. 
 
