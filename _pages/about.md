@@ -13,6 +13,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VVG9DRD1HE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VVG9DRD1HE');
+</script>
+
 Welcome! I am a PhD candidate in the [School of Communication](https://comm.osu.edu/ "School of Communication") at The Ohio State University. My research lies at the intersection of political communication and computational social science. 
 
 My primary research area is the role of the information and social environment in explaining public opinion, and particularly, factual beliefs or misperceptions. Specifically, I seek to explore what factors in the information environment, including state-level contexts, political campaigns, and social media use, as well as the social environment, that is, state-level partisan segregation, explain factual beliefs. To do so, I have combined various methods and data, including panel surveys and digital trace data, as well as tools of computational social science such as web-scraping and text analysis, to provide more compelling, causal evidence. My dissertation builds on this line of research and uses a multi-stage network experiment to examine how characteristics of network relationships can explain why people fall for political misinformation, contributing to their factual beliefs.

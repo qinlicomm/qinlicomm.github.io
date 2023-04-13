@@ -6,6 +6,15 @@ cv_pdf: Qin_Li_CV_public.pdf
 nav: true
 nav_order: 2
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VVG9DRD1HE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VVG9DRD1HE');
+</script>
 
 <div style="width: 100%; height:800">
 <iframe src="/assets/pdf/Qin_Li_CV_public.pdf" width="100%" height="800">
