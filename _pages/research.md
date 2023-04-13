@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## Peer-reviewed Publications
+## Peer-reviewed publications
 
 **Li, Q.**, [Bond, R. M.](http://robertmbond.net/ "Bond, R. M."), & [Garrett, R. K.](https://rkellygarrett.com/ "Garrett, R. K.") (forthcoming). **Misperceptions in Sociopolitical Context:  Belief Sensitivity’s Relationship with Battleground State Status and Partisan Segregation**. ***Journal of Communication***. [Replication data and R code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DUMBEI "Replication data and R code")
 
@@ -17,18 +17,5 @@ nav_order: 1
 [Nisbet, E. C.](https://communication.northwestern.edu/faculty/erik-nisbet.html "Nisbet, E. C."), Mortenson, C., & **Li, Q**. (2021). [The presumed influence of election misinformation on others reduces our own satisfaction with democracy.](https://doi.org/10.37016/mr-2020-59 "The presumed influence of election misinformation on others reduces our own satisfaction with democracy.") ***Harvard Kennedy School (HKS) Misinformation Review***, 1(7). [Appendix A](https://misinforeview.hks.harvard.edu/wp-content/uploads/2021/03/nisbet_appendix_a_20210312.pdf "Appendix A"), [Appendix B](https://misinforeview.hks.harvard.edu/wp-content/uploads/2021/03/nisbet_appendix_b_20210312.pdf "Appendix B"), [Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QMEBYZ "Data")
 
 > ###### Pervasive political misinformation threatens the integrity of American electoral democracy but not in the manner most commonly examined. We argue the presumed influence of misinformation (PIM) may be just as pernicious, and widespread, as any direct influence that political misinformation may have on voters. Our online survey of 2,474 respondents in the United States shows that greater attention to political news heightens PIM on others as opposed to oneself, especially among Democrats and Independents. In turn, PIM on others reduces satisfaction with American electoral democracy, eroding the “virtuous circle” between news and democracy, and possibly commitment to democracy in the long-term.
-
-
-## Under Review
-
-[Li, Y.](https://www.yueliphd.net/ "Li, Y."), Wang, Z., & **Li, Q**. (Minor revision). **Presidential Communication and Partisan Perceptions and Behaviors during the COVID-19 Pandemic: A Longitudinal Examination.** 
-
-**Li, Q.**, Hassel, H. J., & [Bond, R. M.](http://robertmbond.net/ "Bond, R. M.") (Under review). **Journalists' networks: Homophily and peering over the shoulder of other journalists.**
-
-[Bond, R. M.](http://robertmbond.net/ "Bond, R. M."), **Li, Q.**, [Nisbet, E. C.](https://communication.northwestern.edu/faculty/erik-nisbet.html "Nisbet, E. C."), & [Garrett, R. K.](https://rkellygarrett.com/ "Garrett, R. K.") (Under review). **The effect of campaign rallies on misperceptions.** 
-
-## Work in Progress
-
-[Bond, R. M.](http://robertmbond.net/ "Bond, R. M."), **Li, Q.**, Dixon, G. N., Hovick, S. R., Na, K., [Nisbet, E. C.](https://communication.northwestern.edu/faculty/erik-nisbet.html "Nisbet, E. C."), Wegener, D. T., & [Garrett, R. K.](https://rkellygarrett.com/ "Garrett, R. K.") (manuscript in preparation). **The limited effect of social media use on misperceptions.**
 
 
