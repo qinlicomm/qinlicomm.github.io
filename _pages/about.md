@@ -19,7 +19,7 @@ Welcome! I am a PhD candidate in the [School of Communication](https://comm.osu.
 
 My primary research area is the role of the information and social environment in explaining factual beliefs or misperceptions. To do so, I have combined various data and methods, including panel surveys and digital trace data, as well as computational methods such as web-scraping and text analysis, to provide more compelling, causal evidence. My dissertation builds on this line of research and uses a multi-stage network experiment to examine network effects on factual beliefs.
 
-My work has been published in _Journal of Communication_ [https://doi.org/10.1093/joc/jqad017 "Journal of Communication"] and _Harvard Kennedy School (HKS) Misinformation Review_ [https://doi.org/10.37016/mr-2020-59 "Harvard Kennedy School (HKS) Misinformation Review"], and is under review in various communication and general science journals. Check out this [page](https://qinlicomm.github.io/research/ "page") for more info.
+My work has been published in [Journal of Communication] (https://doi.org/10.1093/joc/jqad017 "Journal of Communication") and [Harvard Kennedy School (HKS) Misinformation Review] (https://doi.org/10.37016/mr-2020-59 "Harvard Kennedy School (HKS) Misinformation Review"), and is under review in various communication and general science journals. Check out this [page](https://qinlicomm.github.io/research/ "page") for more info.
 
 I am affiliated with Computational and Statistical Models group ([COSMOS](https://osu-cosmos.group/ "COSMOS")),  Communication and Politics group, and Communicating Science, Health, Environment, and Risk (ComSHER) at OSU. 
 
