@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Peer-reviewed publications
 
-[Li, Y.](https://www.yueliphd.net/ "Li,Y."), [Wang, Z.](https://comm.osu.edu/people/wang.1243 "Wang, Z."), **Li, Q.** (forthcoming). Presidential Communication and Its Relationship with Partisan Perceptions and Behaviors During the COVID-19 Pandemic: A Longitudinal Examination. **Human Communication Research**.
+[Li, Y.](https://www.yueliphd.net/ "Li,Y."), [Wang, Z.](https://comm.osu.edu/people/wang.1243 "Wang, Z."), **Li, Q.** (forthcoming). Presidential Communication and Its Relationship with Partisan Perceptions and Behaviors During the COVID-19 Pandemic: A Longitudinal Examination. ***Human Communication Research***.
 
 **Li, Q.**, [Bond, R. M.](http://robertmbond.net/ "Bond, R. M."), & [Garrett, R. K.](https://rkellygarrett.com/ "Garrett, R. K.") (forthcoming). [Misperceptions in Sociopolitical Context:  Belief Sensitivity’s Relationship with Battleground State Status and Partisan Segregation.](https://academic.oup.com/joc/advance-article/doi/10.1093/joc/jqad017/7131362?utm_source=authortollfreelink&utm_campaign=joc&utm_medium=email&guestAccessKey=a7848ee6-dd10-4529-ba49-b4a3918eb297 "Misperceptions in Sociopolitical Context:  Belief Sensitivity’s Relationship with Battleground State Status and Partisan Segregation.") ***Journal of Communication***. [Replication data and R code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DUMBEI "Replication data and R code")
 
