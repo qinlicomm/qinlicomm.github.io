@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I am a PhD candidate in the [School of Communication](https://comm.osu.edu/ "School of Communication") at [The Ohio State University](https://www.osu.edu/ "The Ohio State University"). My research lies at the intersection of political communication and computational methods. 
 
-My research focuses on the impact of the information and social environment on factual beliefs, attitudes, and behavior. In my research, I frequently use and combine various data and methods, including panel surveys, digital trace data, geographic data, and behavioral experiments. My dissertation builds on this line of research and uses a multi-stage network experiment to examine network effects on factual beliefs and misinformation sharing. My other work involves using computational methods such as network analysis and text analysis to answer social science questions.
+My primary research focuses on the impact of the information and social environment on factual beliefs, attitudes, and behavior. In my research, I frequently use and combine various data and methods, including panel surveys, digital trace data, network data, behavioral experiments, geographic data, and text data, to provide compelling evidence. In my dissertation, I develop dyadic and triadic online experiments to examine how dyadic trust and network closure impact factual beliefs and (mis)information sharing, providing novel insights on the social contexts of (mis)information exposure. 
 
 My work has been published in ***Journal of Communication***, ***Human Communication Research***, and ***Harvard Kennedy School (HKS) Misinformation Review***. Check out this [page](https://qinlicomm.github.io/research/ "page") for more info.
 
