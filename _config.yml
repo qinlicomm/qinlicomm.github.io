@@ -74,12 +74,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: qinlicomm # your GitHub user name
 twitter_username: qinli0 # your Twitter handle
 scholar_userid:  lnD4HU4AAAAJ # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-6530-8979 # your ORCID ID
 osf_id: # your OSF ID
 work_url: # work page URL
 
 contact_note: >
-  Please email me at li.10439@osu.edu :)
+  Please email me at qin.li [at] missouri.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
