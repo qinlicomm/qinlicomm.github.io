@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received the Best Dissertation Award in the Political Communication Division at NCA! :grin:
+I received the Best Dissertation Award in the Political Communication Division at NCA!
