@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
 
-news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 announcements:
@@ -22,7 +22,7 @@ announcements:
 
 Welcome! I am a Preparing Future Faculty Postdoctoral Fellow in the [Department of Communication](https://communication.missouri.edu/ "Department of Communication") at the University of Missouri. I got my PhD degree in Communication at the Ohio State University in 2024, where I was co-advised by Dr. [Kelly Garrett](https://comm.osu.edu/people/garrett.258) and Dr. [Robert Bond](https://comm.osu.edu/people/bond.136).
 
-My research examines how various communication technologies contribute to misinformation susceptibility, political radicalization, and identity-based participation in media, interpersonal, and social contexts.  As a computational social scientist, I use large-scale data (i.e., web and app tracking data, social media data, panel surveys, geographic data) and advanced statistical and computational methods (e.g., network analysis, machine learning models, mathematical and agent-based models) to advance theories and methods in communication research. My research has appeared in top-tier communication journals and multi-disciplinary journals including ***Journal of Communication*** , ***Human Communication Research***, and ***PLOS ONE***. 
+My research examines how various communication technologies contribute to misinformation susceptibility, political radicalization, and identity-based participation in media, interpersonal, and social contexts.  As a computational social scientist, I use large-scale data (i.e., web and app tracking data, social media data, panel surveys, geographic data) and advanced statistical and computational methods (e.g., network analysis, machine learning models, mathematical and agent-based models) to advance theories and methods in communication research. My research has appeared in top-tier communication journals and multi-disciplinary journals including ***Journal of Communication***, ***Human Communication Research***, and ***PLOS ONE***. 
 
 In my dissertation, I developed a trust-based theory of factual beliefs and (mis)information sharing in social contexts and designed web-based interactive experiments incorporating behavioral trust games with bots to test my theory. In recognition of my theoretical and methodological contributions, I received the [Lynda Lee Kaid Outstanding Dissertation Award at National Communication Association’s Political Communication Division](https://www.natcom.org/nca-awards/2025-interest-group-award-winners/) in 2025.
 
