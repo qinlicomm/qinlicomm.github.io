@@ -26,17 +26,16 @@ Nisbet, E. C., Mortenson, C., & **Li, Q.**. [The presumed influence of election 
 
 ## Work under review
 
-**Li, Q.**, Warner, B., & Madrigal, G. (R&R). "They’re eating the dogs, they’re eating the cats:" Presidential Debates as a Megaphone for Identity-based Disinformation. *International Journal of Communication*.
+**Li, Q.**, Warner, B., & Madrigal, G. (forthcoming). "They’re eating the dogs, they’re eating the cats:" Presidential Debates as a Megaphone for Identity-based Disinformation. *International Journal of Communication*.
 
 Bond, R. M., **Li, Q.**, Nisbet, E. C., & Garrett, R. K. (R&R). Rallying the Base, Corroding the Truth: Elite Communication, Misperceptions, and the Communication of Democratic Decline. *Political Communication*.
 
 **Li, Q.**, Wippell, J., Hunt, J., Yadon, N., Bond, R. M., & Tien, J. (Under review). Discussions of Race in Online Right-Wing Communities: A Cross-platform Computational Analysis of Reddit, Telegram, and Truth Social Using BERT and Structural Topic Modeling. *Political Psychology*.
 
-\#**Li, Q.**, \#Garrett, R. K., Bond, R. M., & Nisbet, C. E. (Under review). Social media use and partisan divergence in misinformation detection in the 2024 US election.
-
-Flanagan, W., Mortenson, C., Li, Q., Xu, S., Barnowski, H., & Nisbet, C.E. (Under review). DemocracyBench: A Vignette-Based Dataset and Stochastic Sampling Method for Auditing Democratic Values in LLMs. *NeurIPS*.
 
 ## Work in progress
+
+\#**Li, Q.**, \#Garrett, R. K., Bond, R. M., & Nisbet, C. E. (in prep). Social media use and partisan divergence in misinformation detection in the 2024 US election.
 
 **Li, Q.** (In prep). How dyadic trust impacts factual beliefs and (mis)information sharing: Evidence from an online interactive human-agent experiment.
 
