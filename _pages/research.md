@@ -11,7 +11,13 @@ nav_order: 1
 ## Peer-reviewed Journal Publications
 \# denotes co-first authors
 
+**Li, Q.**, Warner, B., & Madrigal, G. (forthcoming). "They’re eating the dogs, they’re eating the cats:" Presidential Debates as a Megaphone for Identity-based Disinformation. *International Journal of Communication*.
+
 \#**Li, Q.**, \#Bond, R. M., Dixon, G. N., Hovick, S. R., Na, K., Nisbet, C. E., Wegener, D. T., & Garrett, R. K. (Forthcoming). The limited effect of social media use on political and health misperceptions: Evidence from digital trace data and panel surveys. *PLOS ONE*.
+
+Bond, R. M., **Li, Q.**, Nisbet, E. C., & Garrett, R. K. (forthcoming). Rallying the Base, Corroding the Truth: Elite Communication, Misperceptions, and the Communication of Democratic Decline. *Political Communication*.
+
+**Li, Q.** [Is It Just About the Facts? The Case for a Critical, Pro-Democracy Approach to Information Integrity.](https://www.tandfonline.com/eprint/J2XBEPRRTBRC4PK7J589/full?target=10.1080/00909882.2025.2573951 "Is It Just About the Facts? The Case for a Critical, Pro-Democracy Approach to Information Integrity.") *Journal of Applied Communication Research*.
 
 Warner, B., **Li, Q.**, Gillespie, B., de Braganca Peixoto, J., Winfrey, & K. Madrigal, G. [Podcasts, Conservative Identity Politics, and the 2024 Election.](https://doi.org/10.1080/19376529.2026.2613209 "Podcasts, Conservative Identity Politics, and the 2024 Election.") *Journal of Radio \& Audio Media*. 
 
@@ -26,10 +32,6 @@ Nisbet, E. C., Mortenson, C., & **Li, Q.**. [The presumed influence of election 
 
 ## Work under review
 
-**Li, Q.**, Warner, B., & Madrigal, G. (forthcoming). "They’re eating the dogs, they’re eating the cats:" Presidential Debates as a Megaphone for Identity-based Disinformation. *International Journal of Communication*.
-
-Bond, R. M., **Li, Q.**, Nisbet, E. C., & Garrett, R. K. (R&R). Rallying the Base, Corroding the Truth: Elite Communication, Misperceptions, and the Communication of Democratic Decline. *Political Communication*.
-
 **Li, Q.**, Wippell, J., Hunt, J., Yadon, N., Bond, R. M., & Tien, J. (Under review). Discussions of Race in Online Right-Wing Communities: A Cross-platform Computational Analysis of Reddit, Telegram, and Truth Social Using BERT and Structural Topic Modeling. *Political Psychology*.
 
 
@@ -42,7 +44,5 @@ Bond, R. M., **Li, Q.**, Nisbet, E. C., & Garrett, R. K. (R&R). Rallying the Bas
 **Li, Q.** (In prep). Toward a behavioral measure and manipulation of dyadic trust in computer-mediated communication: An extension of economic trust games using bots.
 
 ## Book chapters and other writings
-
-**Li, Q.** [Is It Just About the Facts? The Case for a Critical, Pro-Democracy Approach to Information Integrity.](https://www.tandfonline.com/eprint/J2XBEPRRTBRC4PK7J589/full?target=10.1080/00909882.2025.2573951 "Is It Just About the Facts? The Case for a Critical, Pro-Democracy Approach to Information Integrity.") *Journal of Applied Communication Research*.
 
 **Li, Q.** Not All Falsehoods Are Equal: A Critical Examination of Mis- and Disinformation during the 2024 U.S. Presidential Election. In B. R. Warner, D. G. Bystrom, M. S. McKinney, & M. C. Banwart (Eds.), *Democracy on the line: The turbulent 2024 presidential election*.
