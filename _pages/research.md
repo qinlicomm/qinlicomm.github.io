@@ -11,11 +11,11 @@ nav_order: 1
 ## Peer-reviewed Journal Publications
 \# denotes co-first authors
 
-**Li, Q.**, Warner, B., & Madrigal, G. (forthcoming). "They’re eating the dogs, they’re eating the cats:" Presidential Debates as a Megaphone for Identity-based Disinformation. *International Journal of Communication*.
+**Li, Q.**, Warner, B., & Madrigal, G. (in press). "They’re eating the dogs, they’re eating the cats:" Presidential Debates as a Megaphone for Identity-based Disinformation. *International Journal of Communication*.
 
-\#**Li, Q.**, \#Bond, R. M., Dixon, G. N., Hovick, S. R., Na, K., Nisbet, C. E., Wegener, D. T., & Garrett, R. K. (Forthcoming). The limited effect of social media use on political and health misperceptions: Evidence from digital trace data and panel surveys. *PLOS ONE*.
+\#**Li, Q.**, \#Bond, R. M., Dixon, G. N., Hovick, S. R., Na, K., Nisbet, C. E., Wegener, D. T., & Garrett, R. K. (2026). [The limited effect of social media use on misperceptions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354486 "The limited effect of social media use on misperceptions.") *PLOS ONE*.
 
-Bond, R. M., **Li, Q.**, Nisbet, E. C., & Garrett, R. K. (forthcoming). Rallying the Base, Corroding the Truth: Elite Communication, Misperceptions, and the Communication of Democratic Decline. *Political Communication*.
+Bond, R. M., **Li, Q.**, Nisbet, E. C., & Garrett, R. K. (in press). Rallying the Base, Corroding the Truth: Elite Communication, Misperceptions, and the Communication of Democratic Decline. *Political Communication*.
 
 **Li, Q.** [Is It Just About the Facts? The Case for a Critical, Pro-Democracy Approach to Information Integrity.](https://www.tandfonline.com/eprint/J2XBEPRRTBRC4PK7J589/full?target=10.1080/00909882.2025.2573951 "Is It Just About the Facts? The Case for a Critical, Pro-Democracy Approach to Information Integrity.") *Journal of Applied Communication Research*.
 
@@ -32,16 +32,16 @@ Nisbet, E. C., Mortenson, C., & **Li, Q.**. [The presumed influence of election 
 
 ## Work under review
 
-**Li, Q.**, Wippell, J., Hunt, J., Yadon, N., Bond, R. M., & Tien, J. (Under review). Discussions of Race in Online Right-Wing Communities: A Cross-platform Computational Analysis of Reddit, Telegram, and Truth Social Using BERT and Structural Topic Modeling. *Political Psychology*.
+**Li, Q.**, Wippell, J., Hunt, J., Yadon, N., Bond, R. M., & Tien, J. Discussions of Race in Online Right-Wing Communities: A Cross-platform Computational Analysis of Reddit, Telegram, and Truth Social Using BERT and Structural Topic Modeling. *Political Psychology*.
 
 
 ## Work in progress
 
-\#**Li, Q.**, \#Garrett, R. K., Bond, R. M., & Nisbet, C. E. (in prep). Social media use and partisan divergence in misinformation detection in the 2024 US election.
+\#**Li, Q.**, \#Garrett, R. K., Bond, R. M., & Nisbet, C. E. Social media use and partisan divergence in misinformation detection in the 2024 US election.
 
-**Li, Q.** (In prep). How dyadic trust impacts factual beliefs and (mis)information sharing: Evidence from an online interactive human-agent experiment.
+**Li, Q.** How dyadic trust impacts factual beliefs and (mis)information sharing: Evidence from an online interactive human-agent experiment.
 
-**Li, Q.** (In prep). Toward a behavioral measure and manipulation of dyadic trust in computer-mediated communication: An extension of economic trust games using bots.
+**Li, Q.** Toward a behavioral measure and manipulation of dyadic trust in computer-mediated communication: An extension of economic trust games using bots.
 
 ## Book chapters and other writings
 
